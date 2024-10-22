@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordDiablo8
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cs50
+- 🌱 I’m currently learning IBM fullstack software development
 - 💞️ I’m looking to collaborate on welp.. nth for now
 
 
